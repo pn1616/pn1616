@@ -13,9 +13,9 @@ I love building things that **solve real-world problems** and learning **new tec
 
 ### 📊 GitHub Stats
 
-![Pavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavithraNair&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PavithraNair&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraNair&layout=compact&theme=radical)
+![Pavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pn1616&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pn1616&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pn1616&layout=compact&theme=radical)
 
 ---
 
